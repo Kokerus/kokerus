@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This page is going to be my presentation
+
 <!--
 **Kokerus/kokerus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
